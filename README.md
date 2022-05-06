@@ -45,6 +45,8 @@ Docker:
 
 add `uWSGI>=2.0.18,<2.1` in `requirements.txt`
 
+in `settings.py` change neccessary settings for SECRET_KEY, DEBUG, ALLOWED_HOSTS and Static files. See settings.py file
+
 Run services in the background: `docker-compose up -d`
 
 Run services in the foreground: `docker-compose up --build`
