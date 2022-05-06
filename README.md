@@ -29,9 +29,9 @@ Create a virtual environment: `python3 -m venv venv`
 
 Activate the virtual environment: `source venv/bin/activate` or `venv/Scripts/activate.bat` 
 
-Change Directory: `cd app` 
-
 Install Dependencies: `pip install -r requirements.txt` 
+
+Change Directory: `cd app` 
 
 Migrate the database: `python manage.py makemigrations`
 
