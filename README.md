@@ -25,7 +25,7 @@ git clone https://github.com/mazqoty/Dashbaord-Covid19-Django-Plotly_Dash.git
 
 go to the project folder and run vscode: `code .`
 
-Create a virtual environment: `python3 -m venv venv` 
+Create a virtual environment: `python -m venv venv` 
 
 Activate the virtual environment: `source venv/bin/activate` or `venv/Scripts/activate.bat` 
 
