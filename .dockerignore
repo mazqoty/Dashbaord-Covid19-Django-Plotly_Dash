@@ -1,3 +1,4 @@
 */env_dep
 *.pyc
 *vscode/
+*/staticfiles
